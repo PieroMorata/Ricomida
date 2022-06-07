@@ -1,0 +1,141 @@
+body *{
+    margin:0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+footer{
+    background-color: #373A3C;
+    color: #ffffff;
+    text-align: center;
+}
+
+h5{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.galeria-carrusel .carousel-indicators .boton-carrusel{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C31;
+
+}
+
+.galeria-carrusel{
+    padding: 1.5rem 0 4rem 0;
+    top: 10rem;
+}
+
+.galeria-carrusel .carousel-indicators .active{
+    background-color: #373A3C;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: #ffffff;
+    
+}
+
+
+
+.bg-custom{
+    background-color: #373A3C;
+}
+
+.centrado{
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.centrado-contacto{
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.centrado-navbar{
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.contacto{
+    background-color: #DC3545;
+    color: #ffffff;
+    margin-top: 4rem;
+    padding: 4rem 0;
+    text-align: center;
+}
+
+
+
+.contacto-titulo{
+    font-size: 2.5rem;
+}
+
+.contacto-subtitulo{
+    font-size: 1.8rem;
+}
+
+.datos-receta-principal{
+    top: 1.5rem;
+}
+
+.elementos-navbar{
+    float: right;
+}
+
+.encabezado-receta{
+    margin-bottom: 3rem;
+}
+
+.logo-footer{
+    font-size: 2rem;
+}
+
+.logo-ricomida{
+    font-family: 'Lobster', cursive;
+}
+
+.logo-ricomida-navbar{
+    font-size: 2.25rem;
+}
+
+.preparacion{
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.receta-principal{
+    margin-top: 1.5rem;
+}
+
+.recetas-relacionadas-titulo{
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    padding-bottom: 3rem;
+    text-align: center;
+}
+
+.subtitulo{
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.texto-boton{
+    color: #373A3C;
+}
+
+.titulos-pasos-receta{
+    margin-bottom: 1.5rem;
+    text-decoration: underline;
+}
